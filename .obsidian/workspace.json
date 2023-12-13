@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CEPT Audio Interview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "CEPT Audio Interview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "CEPT Audio Interview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "CEPT Audio Interview.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "81dbb8e9b763bc3e",
   "lastOpenFiles": [
+    "A memorable game of dice.md",
+    "Untitled.canvas",
+    "README.md",
     "Narrative Exploration in Game Writing - Crafting Worlds, Stories, and Insights.md",
     "Dayaam In the Courtyard.md",
     "GameBoardsObsidian/Narrative Exploration in Game Writing - Crafting Worlds, Stories, and Insights.md",
@@ -171,9 +174,6 @@
     "GameBoardsObsidian/UNPACK Structure - 8.md",
     "GameBoardsObsidian/UNPACK Structure - 7.md",
     "GameBoardsObsidian/UNPACK Structure - 6.md",
-    "GameBoardsObsidian/UNPACK Structure - 5.md",
-    "GameBoardsObsidian/UNPACK Structure - 4.md",
-    "GameBoardsObsidian/UNPACK Structure - 3.md",
     "GameBoardsObsidian",
     "New folder"
   ]
