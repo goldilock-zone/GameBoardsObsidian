@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "d3542066b8c535e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3728921316a7cfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81dbb8e9b763bc3e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2a77ec1c8caffae",
+    "type": "split",
+    "children": [
+      {
+        "id": "a361e2a6bcbb9bd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee76755d93d29874",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3fe308bf4e197811",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "dice",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8bfd3a02a1c70d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9e7a414fe491b4d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcb2d6a98e089b2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "223f3b7491460a04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b5e783a85138a16",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f74faae7d892c8e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3824b57989be511b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "81dbb8e9b763bc3e",
+  "lastOpenFiles": [
+    "Narrative Exploration in Game Writing - Crafting Worlds, Stories, and Insights.md",
+    "Dayaam In the Courtyard.md",
+    "GameBoardsObsidian/Narrative Exploration in Game Writing - Crafting Worlds, Stories, and Insights.md",
+    "GameBoardsObsidian/Musing for a week.md",
+    "GameBoardsObsidian/Dayaam In the Courtyard.md",
+    "GameBoardsObsidian/Chaupar Info Note 5.md",
+    "GameBoardsObsidian/Chaupar Info Note 4.md",
+    "GameBoardsObsidian/Chaupar Info Note 3.md",
+    "GameBoardsObsidian/Chaupar Info Note 2.md",
+    "GameBoardsObsidian/Chaupar Info Note 1.md",
+    "GameBoardsObsidian/A memorable game of dice.md",
+    "GameBoardsObsidian/Explainer Note - Dice.md",
+    "GameBoardsObsidian/Taxonomies.md",
+    "GameBoardsObsidian/Movement for Indie Futuring.md",
+    "GameBoardsObsidian/Trialogic Rant.md",
+    "GameBoardsObsidian/UNPACK Structure - 13.md",
+    "GameBoardsObsidian/UNPACK Structure - 12.md",
+    "GameBoardsObsidian/UNPACK Structure - 11.md",
+    "GameBoardsObsidian/UNPACK Structure - 10.md",
+    "GameBoardsObsidian/UNPACK Structure - 9.md",
+    "GameBoardsObsidian/UNPACK Structure - 8.md",
+    "GameBoardsObsidian/UNPACK Structure - 7.md",
+    "GameBoardsObsidian/UNPACK Structure - 6.md",
+    "GameBoardsObsidian/UNPACK Structure - 5.md",
+    "GameBoardsObsidian/UNPACK Structure - 4.md",
+    "GameBoardsObsidian/UNPACK Structure - 3.md",
+    "GameBoardsObsidian",
+    "New folder"
+  ]
+}

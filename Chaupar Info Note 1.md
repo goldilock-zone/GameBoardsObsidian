@@ -1,0 +1,8 @@
+#dice
+Chaupar a traditional Indian board game is very well known as modern-day Ludo. It is a cross-shaped board that hosts the four pieces each for four players beginning at a fixed position, racing and killing around the board to finish at the centre. When talking of the game rules, despite being played by the author in his childhood, there is a struggle to recall the rules of these games. It is fascinating how a westernized version of this game Ludo has influenced and occupied the author’s memory of this game. Can it be said that the author is in a way taken away from the tradition that he belongs to and is being Westernized by the Ludo culture? In spite of all this, thanks to some online available sources that can act as the references to recall back the forgotten or let’s say for delayering the whitewashed Ludo rules on the original gameplay. Unlike Ludo, this game is played by four players but in pairs, where the two opposite players on the board make a pair with each other. Here, each player starts at 6th, 7th, 9th and 10th positions rolling the three four-sided tetrahedral dice or cowries with the highest throwing player moving first and then play continues clockwise. Unlike Ludo the two players in a pair must support each other for their pieces to reach the centre, it is a group play, here to author it is more about learning and showcasing co-existential and collaborative skills rather than winning. 
+
+  
+
+Source: 
+
+1. [http://www.cyningstan.com/game/1457/chaupar](http://www.cyningstan.com/game/1457/chaupar)**

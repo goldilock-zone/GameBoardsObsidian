@@ -1,0 +1,11 @@
+**Excerpt From "A Thousand Plateaus" by Gilles Deleuze**
+
+- Generative pragmatics makes tracings of mixed semiotics; transformational pragmatics makes maps of transformations.
+
+**Excerpt From "A Thousand Plateaus" by Gilles Deleuze**
+
+- It is not simply linguistic, lexical, or even syntactic transformations that determine the importance of a true semiotic translation but the opposite. Crazy talk is not enough. In each case, we must judge whether what we see is an adaptation of an old semiotic, a new variety of a particular mixed semiotic, or the process of creation of an as yet unknown regime. For example, it is relatively easy to stop saying "I," but that does not mean that you have gotten away from the regime of subjectification; conversely, you can keep on saying "I," just for kicks, and already be in another regime in which personal pronouns function only as fictions. Signifiance and interpretation are so thick-skinned, they form such a sticky mixture with subjectification, that it is easy to believe that you are outside them when you are in fact still secreting them.
+
+**Excerpt From "A Thousand Plateaus" by Gilles Deleuze**
+
+- An operation of translation is not easy when it is a question of destroying a dominant atmospheric semiotic. One of the things of profound interest in Castaneda's books, under the influence of drugs, or other things, and of a change of atmosphere, is precisely that they show how the Indian manages to combat the mechanisms of interpretation and instill in the disciple a presignifying semiotic, or even an asignifying diagram: Stop! You're making me tired! Experiment, don't signify and interpret! Find your own places, territorialities, deterritorializations, regime, lines of flight! Semiotize yourself instead of rooting around in your prefab childhood and Western semiology. "Don Juan stated that in order to arrive at 'seeing' one first had to 'stop the world.' 'Stopping the world' was indeed an appropriate rendition of certain states of awareness in which the reality of everyday life is altered because the flow of interpretation, which ordinarily runs uninterruptedly, has been stopped by a set of circumstances alien to the flow."37 In short, a true semiotic transformation appeals to all kinds of variables, not only external ones, but also variables implicit to language, internal to statements.
