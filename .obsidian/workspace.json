@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "331da579ca9ea9b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompts/Test Prompts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd85cb3caa12f722",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompts/Sorter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b62f5d23ae3bf36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompts/M.A.G.I.C image context.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a77eaed6a8db4087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prompts/Sorter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CEPT Audio Interview.md",
+                "file": "Prompts/M.A.G.I.C image context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CEPT Audio Interview.md",
+                "file": "Prompts/M.A.G.I.C image context.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CEPT Audio Interview.md"
+                "file": "Prompts/M.A.G.I.C image context.md"
               }
             }
           }
@@ -146,8 +195,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81dbb8e9b763bc3e",
+  "active": "2b62f5d23ae3bf36",
   "lastOpenFiles": [
+    "Prompts/M.A.G.I.C image context.md",
+    "Untitled.md",
+    "Prompts/Smogasboard.md",
+    "Prompts/Sorter.md",
+    "Prompts/Test Prompts.md",
+    "Prompts/Image Prompt Engineering.md",
+    "Pasted image 20231219102318.jpg",
+    "Pasted image 20231219102250.jpg",
+    "WhatsApp Image 2023-12-19 at 10.05.47_053aab17.jpg",
+    "Prompts",
+    "CEPT Audio Interview.md",
     "A memorable game of dice.md",
     "Untitled.canvas",
     "README.md",
@@ -168,12 +228,6 @@
     "GameBoardsObsidian/Trialogic Rant.md",
     "GameBoardsObsidian/UNPACK Structure - 13.md",
     "GameBoardsObsidian/UNPACK Structure - 12.md",
-    "GameBoardsObsidian/UNPACK Structure - 11.md",
-    "GameBoardsObsidian/UNPACK Structure - 10.md",
-    "GameBoardsObsidian/UNPACK Structure - 9.md",
-    "GameBoardsObsidian/UNPACK Structure - 8.md",
-    "GameBoardsObsidian/UNPACK Structure - 7.md",
-    "GameBoardsObsidian/UNPACK Structure - 6.md",
     "GameBoardsObsidian",
     "New folder"
   ]
