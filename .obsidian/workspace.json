@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81dbb8e9b763bc3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CEPT Audio Interview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "331da579ca9ea9b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompts/Test Prompts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fd85cb3caa12f722",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAGIC/Architectural Blueprint.md",
+                "file": "MAGIC/Scientific Illustrations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51e32057d1ab7d37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAGIC/Runes.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAGIC/Coin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a77eaed6a8db4087",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Prompts/Sorter.md",
+                "file": "MAGIC/WANTED.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAGIC/Architectural Blueprint.md",
+                "file": "MAGIC/Runes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAGIC/Architectural Blueprint.md",
+                "file": "MAGIC/Runes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAGIC/Architectural Blueprint.md"
+                "file": "MAGIC/Runes.md"
               }
             }
           }
@@ -195,13 +171,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd85cb3caa12f722",
+  "active": "51e32057d1ab7d37",
   "lastOpenFiles": [
+    "30926d6b-0a63-49e8-a1c5-ad4ad02667c0.webp",
+    "eccc5e9f-88b4-4b46-ae89-885dc55d9b6b 1.webp",
+    "eccc5e9f-88b4-4b46-ae89-885dc55d9b6b.webp",
+    "MAGIC/Historical Murmur.md",
+    "MAGIC/Runes.md",
+    "MAGIC/Scientific Illustrations.md",
+    "MAGIC/A Description.md",
+    "MAGIC/GameBoard.md",
+    "MAGIC/Alchemical Recipes.md",
+    "MAGIC/Taxidermy Display.md",
     "MAGIC/M.A.G.I.C image context.md",
+    "Untitled 1.md",
     "MAGIC/Architectural Blueprint.md",
+    "CEPT Audio Interview.md",
+    "Prompts/Test Prompts.md",
+    "MAGIC/WANTED.md",
+    "MAGIC/Propaganda Posters.md",
+    "MAGIC/Coin.md",
     "MAGIC/Herbarium.md",
     "Prompts/Sorter.md",
-    "MAGIC/Coin.md",
     "eb9d67e6-ff48-432a-8dff-60a8cc96c366.webp",
     "MAGIC/A Sculpture.md",
     "MAGIC/Journal.md",
@@ -213,24 +204,11 @@
     "MAGIC/A Comedy.md",
     "MAGIC",
     "Untitled.md",
-    "Prompts/Smogasboard.md",
-    "Prompts/Test Prompts.md",
-    "Prompts/Image Prompt Engineering.md",
     "Pasted image 20231219102318.jpg",
     "Pasted image 20231219102250.jpg",
     "WhatsApp Image 2023-12-19 at 10.05.47_053aab17.jpg",
     "Prompts",
-    "CEPT Audio Interview.md",
-    "A memorable game of dice.md",
     "Untitled.canvas",
-    "README.md",
-    "Narrative Exploration in Game Writing - Crafting Worlds, Stories, and Insights.md",
-    "Dayaam In the Courtyard.md",
-    "GameBoardsObsidian/Narrative Exploration in Game Writing - Crafting Worlds, Stories, and Insights.md",
-    "GameBoardsObsidian/Musing for a week.md",
-    "GameBoardsObsidian/Dayaam In the Courtyard.md",
-    "GameBoardsObsidian/Chaupar Info Note 5.md",
-    "GameBoardsObsidian/Chaupar Info Note 4.md",
     "GameBoardsObsidian",
     "New folder"
   ]

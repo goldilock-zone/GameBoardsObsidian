@@ -1,3 +1,4 @@
+Monstrous Amplification to Glorify Incongruent Capacities
 # Diagram One
 **Title: Charting the Cartography of Indie-Futurism: An Interpretative Diagram**
 
