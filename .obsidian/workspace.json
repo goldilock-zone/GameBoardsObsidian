@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompts/Sorter.md",
+                "file": "MAGIC/Architectural Blueprint.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prompts/M.A.G.I.C image context.md",
+                "file": "MAGIC/Coin.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prompts/M.A.G.I.C image context.md",
+                "file": "MAGIC/Architectural Blueprint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prompts/M.A.G.I.C image context.md",
+                "file": "MAGIC/Architectural Blueprint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prompts/M.A.G.I.C image context.md"
+                "file": "MAGIC/Architectural Blueprint.md"
               }
             }
           }
@@ -195,12 +195,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b62f5d23ae3bf36",
+  "active": "fd85cb3caa12f722",
   "lastOpenFiles": [
-    "Prompts/M.A.G.I.C image context.md",
+    "MAGIC/M.A.G.I.C image context.md",
+    "MAGIC/Architectural Blueprint.md",
+    "MAGIC/Herbarium.md",
+    "Prompts/Sorter.md",
+    "MAGIC/Coin.md",
+    "eb9d67e6-ff48-432a-8dff-60a8cc96c366.webp",
+    "MAGIC/A Sculpture.md",
+    "MAGIC/Journal.md",
+    "MAGIC/Travel Guide.md",
+    "MAGIC/Map.md",
+    "MAGIC/Body Art.md",
+    "MAGIC/Untitled",
+    "MAGIC/Edited Comedy.md",
+    "MAGIC/A Comedy.md",
+    "MAGIC",
     "Untitled.md",
     "Prompts/Smogasboard.md",
-    "Prompts/Sorter.md",
     "Prompts/Test Prompts.md",
     "Prompts/Image Prompt Engineering.md",
     "Pasted image 20231219102318.jpg",
@@ -218,16 +231,6 @@
     "GameBoardsObsidian/Dayaam In the Courtyard.md",
     "GameBoardsObsidian/Chaupar Info Note 5.md",
     "GameBoardsObsidian/Chaupar Info Note 4.md",
-    "GameBoardsObsidian/Chaupar Info Note 3.md",
-    "GameBoardsObsidian/Chaupar Info Note 2.md",
-    "GameBoardsObsidian/Chaupar Info Note 1.md",
-    "GameBoardsObsidian/A memorable game of dice.md",
-    "GameBoardsObsidian/Explainer Note - Dice.md",
-    "GameBoardsObsidian/Taxonomies.md",
-    "GameBoardsObsidian/Movement for Indie Futuring.md",
-    "GameBoardsObsidian/Trialogic Rant.md",
-    "GameBoardsObsidian/UNPACK Structure - 13.md",
-    "GameBoardsObsidian/UNPACK Structure - 12.md",
     "GameBoardsObsidian",
     "New folder"
   ]
