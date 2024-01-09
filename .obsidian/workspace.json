@@ -32,6 +32,28 @@
             }
           },
           {
+            "id": "d51c13b00bbd9de4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "SetUp/Obsidian.pdf"
+              }
+            }
+          },
+          {
+            "id": "59a1fa7aa7d4551d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rabbiting/Sandbox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2b62f5d23ae3bf36",
             "type": "leaf",
             "state": {
@@ -44,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAGIC/Runes.md",
+                "file": "Rabbiting/Sandbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAGIC/Runes.md",
+                "file": "Rabbiting/Sandbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAGIC/Runes.md"
+                "file": "Rabbiting/Sandbox.md"
               }
             }
           }
@@ -171,13 +193,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51e32057d1ab7d37",
+  "active": "59a1fa7aa7d4551d",
   "lastOpenFiles": [
-    "30926d6b-0a63-49e8-a1c5-ad4ad02667c0.webp",
-    "eccc5e9f-88b4-4b46-ae89-885dc55d9b6b 1.webp",
-    "eccc5e9f-88b4-4b46-ae89-885dc55d9b6b.webp",
-    "MAGIC/Historical Murmur.md",
+    "Pasted image 20240109153614.png",
+    "Pasted image 20240109153552.png",
+    "Pasted image 20240109153225.png",
+    "Pasted image 20240109153132.png",
+    "Pasted image 20240109153012.png",
+    "Pasted image 20240109152913.png",
+    "Pasted image 20240109152717.png",
+    "Pasted image 20240109152652.png",
+    "Pasted image 20240109152631.png",
+    "Pasted image 20240109152603.png",
+    "TheoryFiction/Sandbox.md",
+    "Pasted image 20240109152147.png",
+    "Rabbiting/Sandbox.md",
+    "TheoryFiction",
+    "SetUp/Obsidian.pdf",
+    "SetUp/Zotero.md",
+    "Rabbiting",
+    "SetUp/Zotero.pdf",
+    "SetUp/Obsidian.md",
     "MAGIC/Runes.md",
+    "SetUp",
+    "MAGIC/Historical Murmur.md",
     "MAGIC/Scientific Illustrations.md",
     "MAGIC/A Description.md",
     "MAGIC/GameBoard.md",
@@ -193,20 +232,12 @@
     "MAGIC/Coin.md",
     "MAGIC/Herbarium.md",
     "Prompts/Sorter.md",
-    "eb9d67e6-ff48-432a-8dff-60a8cc96c366.webp",
     "MAGIC/A Sculpture.md",
     "MAGIC/Journal.md",
     "MAGIC/Travel Guide.md",
     "MAGIC/Map.md",
-    "MAGIC/Body Art.md",
     "MAGIC/Untitled",
-    "MAGIC/Edited Comedy.md",
-    "MAGIC/A Comedy.md",
     "MAGIC",
-    "Untitled.md",
-    "Pasted image 20231219102318.jpg",
-    "Pasted image 20231219102250.jpg",
-    "WhatsApp Image 2023-12-19 at 10.05.47_053aab17.jpg",
     "Prompts",
     "Untitled.canvas",
     "GameBoardsObsidian",
